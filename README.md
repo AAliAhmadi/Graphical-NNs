@@ -1,1 +1,2 @@
 In this repository, the goal is to introduce 3 graphical neural nets: Vanilla GNN, Graph Convolutional NN and also Graph Attention NNs. Also, we compare the results of these 3 methods with each other and a vanilla MultiPerceptron Network. The comparison is done on two famous dataset for graphical NNs: Cora and Facebook dataset.
+Overall this repository is mainly from the book Hands on Graphical Neural Networks Using python by Maxime Labonne.
